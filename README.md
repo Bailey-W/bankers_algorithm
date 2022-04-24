@@ -1,5 +1,5 @@
-#Banker's Algorithm
-##Input File
+# Banker's Algorithm
+## Input File
 The input file should be formatted as follows:
 ```
 3 5  // The number of resources followed by the number of processes
@@ -35,7 +35,7 @@ Available:
 
 The file **MUST** be named "input.txt" and be in the same directory as bankers
 
-##Building and running
+## Building and running
 To build and run the program, run the following commands:
 ```
 g++ bankers.c -o bankers
